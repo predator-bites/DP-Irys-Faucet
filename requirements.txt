@@ -1,0 +1,6 @@
+requests
+loguru
+2captcha-python
+loguru
+web3
+rich
